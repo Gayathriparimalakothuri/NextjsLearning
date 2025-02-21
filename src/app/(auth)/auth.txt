@@ -1,0 +1,2 @@
+here auth is a route group which groups the related routes into same folder.
+to indicate that auth folder is a route  group we can rename it from auth to (auth)
